@@ -1,0 +1,8 @@
+- name: Draco
+  address: 121313
+  msg: Draco has arrived!
+  soundName: draco-arrive
+- name: Shit
+  address: 111111
+  msg: Its morphing time!
+  soundName: shit-arrive
