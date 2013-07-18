@@ -1,8 +1,8 @@
 - name: Draco
   address: a0:0b:ba:c9:59:b0
   msg: Draco has arrived!
-  soundName: im-back
+  soundName: draco-arrived
 - name: Draco
   address: 84:38:35:41:78:22
   msg: Draco has turned on his computer!
-  soundName: draco-arrive
+  soundName: draco-arrived
